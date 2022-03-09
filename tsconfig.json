@@ -3,7 +3,7 @@
     "target": "ESNext",
     "useDefineForClassFields": true,
     "module": "ESNext",
-    "lib": ["es2018", "webworker"],
+    "lib": ["es2018", "dom", "webworker"],
     "types": ["dom-mediacapture-transform"],
     "moduleResolution": "Node",
     "strict": true,
